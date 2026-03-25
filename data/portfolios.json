@@ -1,0 +1,18 @@
+[
+  {
+    "nickname": "CoolBuilder",
+    "role": "Builder / Scripter",
+    "bio": "Создаю башенки и мини-игры в Roblox.",
+    "projects": [
+      {
+        "title": "Tower Rush",
+        "description": "Башенка с ловушками и паркуром",
+        "link": "https://www.roblox.com/games/123456/Tower-Rush",
+        "screenshots": [
+          "https://i.imgur.com/example1.png",
+          "https://i.imgur.com/example2.png"
+        ]
+      }
+    ]
+  }
+]
